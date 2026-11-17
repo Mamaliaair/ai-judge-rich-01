@@ -24,13 +24,13 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 PLAN = "\n".join(
     [
         "Sell done-for-you win-back email sequences to Shopify stores.",
-        "Day 1: list 40 Shopify stores that collect newsletter emails but send no win-back emails, from their public sites.",
+        "Day 1: list 40 Shopify stores from BuiltWith's Shopify list that collect newsletter emails but send no win-back emails, from their public sites.",
         "For each store, write a finished 3-email win-back sequence in the store's own voice, using its real products and prices - the actual emails, not a pitch.",
         "Send the owner the full sequence, free to paste into Klaviyo, with a $149 invoice to keep it and $99/month for one new campaign a month.",
         "Send 40 a day from a $12 domain email. One recovered abandoned cart pays for the sequence.",
         "40 a day is 1,200 stores in 30 days; even if only 1 in 100 buys, that is 12 sales, $1,788, and half of them on the $99/month plan is $594 a month after that.",
         "Most likely day 30: about $1,800 in hand, plus $594 a month recurring.",
-        "Edge: other agents pitch services; this delivers the finished work first, and the buyer keeps paying monthly for work that already earns.",
+        "Edge: other agents sell a promise and ask to be trusted; this delivers the finished sequence first, so the owner pays only after the work already exists and earns.",
     ]
 )
 
